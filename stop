@@ -1,0 +1,24 @@
+[33mcommit f797acc08ea20271a372d078e697335ed7e6f94a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelopment[m[33m)[m
+Merge: e12fb6c aae0173
+Author: Violet Moore <irishviolet06@gmail.com>
+Date:   Thu Feb 19 17:17:19 2026 -0600
+
+    Merge main into development
+
+[33mcommit e12fb6c91c1045243bc9604c3cd96b98a572a1d3[m
+Author: Violet Moore <irishviolet06@gmail.com>
+Date:   Thu Feb 19 17:14:23 2026 -0600
+
+    Changing the greetings
+
+[33mcommit aae0173c892a289c0fdf5cbd1dbf71117c83b62f[m[33m ([m[1;32mmain[m[33m)[m
+Author: Violet Moore <irishviolet06@gmail.com>
+Date:   Thu Feb 19 17:11:37 2026 -0600
+
+    Adding author name
+
+[33mcommit 1b442be956e52abc53573996f26a8e86fabb701a[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: irishviolet06 <166046486+irishviolet06@users.noreply.github.com>
+Date:   Thu Feb 19 17:08:11 2026 -0600
+
+    Update README.md
